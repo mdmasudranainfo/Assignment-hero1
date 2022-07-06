@@ -4,6 +4,9 @@ body{
     font-family: 'Oswald', sans-serif;
 font-family: 'Poppins', sans-serif;
 }
+p{
+    color: #000000b0;
+}
 section{
     margin-bottom: 150px;
     text-align: center;
@@ -26,6 +29,7 @@ section{
 }
 .header-aria p{
     margin-bottom: 40px;
+    color: white;
 }
 
 .btn{
@@ -100,4 +104,24 @@ footer h2{
 }
 footer p{
    color: white;
+}
+#update h1{
+    font-size: 50px;
+}
+#update{}
+#update{}
+.mail{
+   width: 800px;
+   padding: 100px;
+   
+    background-color: antiquewhite;
+    margin: auto;
+    display: flex;
+   
+}
+.mail input{
+    padding: 10px 20px;
+    
+    
+   
 }
