@@ -86,3 +86,14 @@ section{
 .item-3{
     background-color: #f6e58d3a;
 }
+footer{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+footer h2{
+    color: #FF5959;
+}
+footer p{
+   color: white;
+}
