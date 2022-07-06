@@ -53,3 +53,36 @@ section{
     background-color: #FAFAFA;
 
 }
+.donate-wraper .donate-item h2{
+    color: #000000b0;
+}
+.donate input{
+    width: 700px;
+    margin-bottom: 30px;
+}
+
+.plan{}
+.plan-wraper{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+}
+.plan h1{
+    font-size: 50px;
+}
+.plan-item{
+    width: 30%;
+    padding: 1%;
+    margin: 1%;
+    text-align: left;
+    background-color: #4f9da611;
+    border-radius: 5px;
+}
+
+.item-1{}
+.item-2{
+    background-color: #ff59591a;
+}
+.item-3{
+    background-color: #f6e58d3a;
+}
